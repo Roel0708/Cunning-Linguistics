@@ -1,0 +1,30 @@
+header {
+    background-color: #24352d;  
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+}
+
+h1 { 
+color: #d2a36c;
+font-size: 38px; 
+font-family: 'Cormorant Garamond', serif; font-weight: bold;
+letter-spacing: 5px;
+padding: 10px;
+}
+
+body {
+    background-color: #eae2d2;
+    margin: 0px;
+}
+h2 {
+color:#24352d;
+font-size: 20px;
+font-family:'Lucida Sans', serif;
+}  
+p {
+    color:#24352d;
+    font-size: 18px;
+    font-family: 'Arial', serif;
+    padding: 10px;
+}
