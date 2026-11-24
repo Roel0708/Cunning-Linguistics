@@ -39,6 +39,12 @@
                 </li>
             </ul>
             
+            <div class="search-bar">
+                <input type="text" id="languageInput" placeholder="Search for a language..."
+                 onkeydown="if(event.key === 'Enter') searchLanguage()">
+                <button onclick="searchLanguage()">Search</button>
+             </div>
+
             <div class="nav-right">
             <a href="About.html">About</a>
             </div>
@@ -78,6 +84,7 @@
     </div>
 </footer>
 
+<script src="search.js"></script>
 </body>
 
 </html>
